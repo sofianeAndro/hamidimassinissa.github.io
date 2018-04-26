@@ -86,7 +86,7 @@ exclude:
   - CNAME
   - deploy.sh
 
-keep_files: [external, misc, .git]
+keep_files: [external, misc, .git, testsetperformances]
 
 collections:
     iot_projects:
