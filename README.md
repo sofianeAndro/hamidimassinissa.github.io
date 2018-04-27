@@ -64,7 +64,7 @@ Go to your repository on GitHub and check if your file is present in the source 
 * Go to your repository on GitHub;
 * Click on *"Pull requests"* tab;
 * Click on *"New pull request"*;
-* Choose branches to compare: in your case, it will be your newly pushed branch `my-awesome-changes` which holds the changes you made, and `lipn` branch which is the branch you want your changes to be applied to;
+* Choose branches to compare: in your case, it will be your newly pushed branch `my-awesome-branch` which holds the changes you made, and `lipn` branch which is the branch you want your changes to be applied to;
 * Click on *"Create pull request"*;
 * Add a comment;
 
