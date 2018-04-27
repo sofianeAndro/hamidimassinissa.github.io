@@ -6,6 +6,8 @@ The following instructions are illustrated in this [video](https://www.youtube.c
 ### Create a GitHub account (if this is not yet the case)
 
 ### Fork this repository
+<p align="center">
+    <img src="https://github.com/HamidiMassinissa/hamidimassinissa.github.io/blob/lipn/images/how-to-fork-GitHub.png" height="300"></p> 
 
 ### Clone the forked repository to your local machine
 
@@ -67,4 +69,4 @@ Go to your repository on GitHub and check if your file is present in the source 
 * Add a comment;
 
 ### After a quick check, I will merge your changes
-Your project will be available on the website shortly after that. Check if everything is ok [here](https://lipn.univ-paris13.fr/~hamidi/iot_projects/) and leave a comment in your pull request if you want to make an enhancement.
+Your project will be available on the website shortly after that. Check if everything is ok [here](https://lipn.univ-paris13.fr/~hamidi/iot_projects/) and leave a comment in your pull request if you want to make a further enhancement.
