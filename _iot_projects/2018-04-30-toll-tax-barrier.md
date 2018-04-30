@@ -2,10 +2,10 @@
 layout: iot-projects
 authors:
     - Sofiene BEN KHEMIS
-video-id: LATER
+video-id: 0wyBh1Ag1tU
 ---    
 
-The general idea of this small model is to have an Arduino board that contains a motion sensor and a servo motor.
+The general idea of this s0wyBh1Ag1tUmall model is to have an Arduino board that contains a motion sensor and a servo motor.
 At each movement detected by the sensor the servo motor reacts according to the programmed parameters and after a certain time it will return to the initial state.
 You can also move the remote servo motor using a mobile application via Bluetooth
 
