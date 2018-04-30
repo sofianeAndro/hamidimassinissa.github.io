@@ -1,6 +1,6 @@
 ---
 layout: iot-projects
-authors:
+author:
     - Sofiene BEN KHEMIS
 video-id: 0wyBh1Ag1tU
 ---    
