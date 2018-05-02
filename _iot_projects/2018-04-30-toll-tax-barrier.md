@@ -2,7 +2,7 @@
 layout: iot-projects
 author:
     - Sofiene BEN KHEMIS
-video-id: 0wyBh1Ag1tU
+video-id: zy3GuaxF_mI
 ---    
 
 The general idea of this s0wyBh1Ag1tUmall model is to have an Arduino board that contains a motion sensor and a servo motor.
